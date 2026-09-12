@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vue 3 &amp; Nuxt Fullstack Hub</title>
+    <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Sat, 12 Sep 2026 10:31:11 GMT</lastBuildDate>
+    <atom:link href="https://vue-nuxt-fullstack-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Vue 3 &amp; Nuxt Fullstack Hub Initial Release</title>
+      <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
+      <pubDate>Sat, 12 Sep 2026 10:31:11 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
