@@ -4,10 +4,17 @@
     <title>Vue 3 &amp; Nuxt Fullstack Hub</title>
     <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 10:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:04:55 GMT</lastBuildDate>
     <atom:link href="https://vue-nuxt-fullstack-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
+      <link>https://www.reddit.com/r/typescript/</link>
+      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-reddit-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 14:04:55 GMT</pubDate>
+      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
+    </item>
+<item>
       <title>Vue 3 &amp; Nuxt Fullstack Hub Initial Release</title>
       <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
       <pubDate>Sat, 12 Sep 2026 10:31:11 GMT</pubDate>
