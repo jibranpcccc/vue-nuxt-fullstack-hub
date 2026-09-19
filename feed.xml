@@ -4,10 +4,17 @@
     <title>Vue 3 &amp; Nuxt Fullstack Hub</title>
     <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 06:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:04:24 GMT</lastBuildDate>
     <atom:link href="https://vue-nuxt-fullstack-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                        <item>
+                            <item>
+      <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
+      <link>https://discord.gg/nextjs</link>
+      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-discord-20260919-1-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 06:04:24 GMT</pubDate>
+      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
       <link>https://discord.gg/devcord</link>
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-discord-20260918-1-2026-09-18</guid>
