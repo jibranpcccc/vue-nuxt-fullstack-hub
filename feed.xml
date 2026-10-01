@@ -4,10 +4,17 @@
     <title>Vue 3 &amp; Nuxt Fullstack Hub</title>
     <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 06:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:56:22 GMT</lastBuildDate>
     <atom:link href="https://vue-nuxt-fullstack-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                <item>
+                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
+      <link>https://www.reddit.com/r/aws/</link>
+      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-reddit-20261001-1-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 07:56:22 GMT</pubDate>
+      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/docker Containers (Reddit)</title>
       <link>https://www.reddit.com/r/docker/</link>
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-reddit-20260930-1-2026-09-30</guid>
