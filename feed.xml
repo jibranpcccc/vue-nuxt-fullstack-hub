@@ -4,10 +4,17 @@
     <title>Vue 3 &amp; Nuxt Fullstack Hub</title>
     <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:04:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:04:49 GMT</lastBuildDate>
     <atom:link href="https://vue-nuxt-fullstack-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
+      <link>https://t.me/techcrunch</link>
+      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-telegram-20261013-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:04:49 GMT</pubDate>
+      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
       <link>https://discord.gg/tech</link>
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-discord-20261011-1-2026-10-11</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:04:55 GMT</pubDate>
       <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
-    </item>
-<item>
-      <title>Vue 3 &amp; Nuxt Fullstack Hub Initial Release</title>
-      <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
-      <pubDate>Sat, 12 Sep 2026 10:31:11 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
