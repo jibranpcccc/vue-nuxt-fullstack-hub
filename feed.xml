@@ -4,10 +4,17 @@
     <title>Vue 3 &amp; Nuxt Fullstack Hub</title>
     <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 06:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:57:18 GMT</lastBuildDate>
     <atom:link href="https://vue-nuxt-fullstack-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                <item>
+                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-forum-20261015-1-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 06:57:18 GMT</pubDate>
+      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-forum-20261015-1-2026-10-29</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-reddit-20261001-1-2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 07:56:22 GMT</pubDate>
       <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/docker Containers (Reddit)</title>
-      <link>https://www.reddit.com/r/docker/</link>
-      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-reddit-20260930-1-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 06:19:07 GMT</pubDate>
-      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Guides, Dockerfile optimization, multi-stage builds, and Docker Compose architectures for modern microservices.</description>
     </item>
   </channel>
 </rss>
