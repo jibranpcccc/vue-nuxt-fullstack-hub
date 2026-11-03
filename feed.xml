@@ -4,10 +4,17 @@
     <title>Vue 3 &amp; Nuxt Fullstack Hub</title>
     <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:04:51 GMT</lastBuildDate>
     <atom:link href="https://vue-nuxt-fullstack-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                            <item>
+                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-forum-20261015-1-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:04:51 GMT</pubDate>
+      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-forum-20261015-1-2026-11-02</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-telegram-20261005-1-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 06:05:05 GMT</pubDate>
       <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
-      <link>https://t.me/devops_channel</link>
-      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-telegram-20261003-1-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 06:29:00 GMT</pubDate>
-      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
     </item>
   </channel>
 </rss>
