@@ -4,10 +4,17 @@
     <title>Vue 3 &amp; Nuxt Fullstack Hub</title>
     <link>https://vue-nuxt-fullstack-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:23:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:04:57 GMT</lastBuildDate>
     <atom:link href="https://vue-nuxt-fullstack-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: AI Insights &amp; Research Feed (Telegram)</title>
+      <link>https://t.me/ai_insights</link>
+      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-3-nuxt-fullstack-hub-telegram-9-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:04:57 GMT</pubDate>
+      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/StableDiffusion Local Art (Reddit)</title>
       <link>https://www.reddit.com/r/StableDiffusion/</link>
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-3-nuxt-fullstack-hub-reddit-8-2026-11-25</guid>
@@ -173,13 +180,6 @@
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-forum-20261015-1-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 06:05:09 GMT</pubDate>
-      <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
-      <link>https://news.ycombinator.com</link>
-      <guid isPermaLink="false">https://vue-nuxt-fullstack-hub.netlify.app/#vue-nuxt-fullstack-hub-forum-20261015-1-2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 06:50:08 GMT</pubDate>
       <description>Newly verified community added to Vue 3 &amp; Nuxt Fullstack Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
     </item>
   </channel>
